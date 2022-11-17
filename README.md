@@ -19,16 +19,10 @@ We have tried to answer the following Questions
 7.	How Long People Stay in the hotel?
 8.	The most booked Room type by the customers
 9.	Preferred stay length in each hotel
-
-
-10.The most common channel for booking hotels
-
-
-11.Which significant distribution channel has highest cancellation percentage?
-
-
-12. How many days prior customers book hotel?
-
+10.	Which agent has maximum bookings?
+11.	The most common channel for booking hotels
+12.	Which significant distribution channel has highest cancellation percentage?
+13.	How many days prior customers book hotel?
 
 After that we made the predictive model to predict whether the booking will be cancelled or not
 We will:
@@ -40,10 +34,10 @@ We will:
 •	Cleaning of the data
 
 
-•	Evaluate the data
+•	Evaluate the data/Data Anlysis
 
 
-•	Data visualisation
+•	Data visualization
 
 
 Tools and Libraries Used
@@ -112,6 +106,7 @@ We learned that
 7.	Most of the customers don’t deposit any amount before
 8.	Most demanded room type is A
 9.	Most common stay length is less than 4 days and generally people prefer City hotel for short stay, but for long stays, Resort Hotel is preferred.
-10.	TA/TO most common channel for booking hotels
-11.	TA/TO has highest booking cancellation %.
-12.	Most of the customers book hotels immediately or 1-6 days prior
+10.	Agent 9 has the maximum bookings.
+11.	TA/TO most common channel for booking hotels
+12.	TA/TO has highest booking cancellation %.
+13.	Most of the customers book hotels immediately or 1-6 days prior
